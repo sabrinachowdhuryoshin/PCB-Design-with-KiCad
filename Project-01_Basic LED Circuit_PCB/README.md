@@ -53,4 +53,4 @@ Once the circuit is connected, turn on the power source to light up the LED.
 
 ## License
 
-This repository is licensed under the [Unlicense](https://unlicense.org). You are free to use and modify the designs in this repository for personal or commercial purposes. However, we do not guarantee the accuracy or reliability of the designs, and we are not responsible for any damages or liabilities that may result from their use.
+This project is licensed under the [Unlicense](https://unlicense.org). You are free to use and modify the designs in this repository for personal or commercial purposes. However, we do not guarantee the accuracy or reliability of the designs, and we are not responsible for any damages or liabilities that may result from their use.
