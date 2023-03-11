@@ -29,7 +29,13 @@ The KiCad PCB design for the basic LED circuit is shown below:
 
 ![LED Circuit PCB Design](Basic LED Circuit_PCB.jpg)  
 
-The PCB contains three footprints: Connector_PinHeader_2.54mm for the battery, LED_THT:LED_D5.0 mm for the LED, and Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal for the 470 ohms resistor. The design follows the circuit diagram shown earlier, with the battery connected to the vertical pin header, the resistor connected to the horizontal resistor footprint, and the LED connected to the LED footprint.
+The PCB contains three footprints: 
+
+1. `Connector_PinHeader_2.54mm` for the battery
+2. `LED_THT:LED_D5.0 mm` for the LED
+3. `Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal` for the 470 ohms resistor. 
+   
+The design follows the circuit diagram shown earlier, with the battery connected to the vertical pin header, the resistor connected to the horizontal resistor footprint, and the LED connected to the LED footprint.
 
 ## Usage
 
@@ -44,12 +50,6 @@ To use the PCB, follow these steps:
 7. Insert the battery into the vertical pin header on the PCB.
    
 Once the circuit is connected, turn on the power source to light up the LED.
-
-## Contributing
-
-Contributions to this repository are welcome! If you want to contribute a new PCB design, create a new folder with the project name and add the necessary files. Ensure that the files are compatible with the latest version of KiCad software.
-
-Before submitting a pull request, make sure to test the design and generate the Gerber files to ensure that everything is working properly.
 
 ## License
 
