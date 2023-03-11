@@ -1,6 +1,6 @@
 # Project-01: Basic LED Circuit - PCB
 
-This project contains a KiCad 7.0.0 PCB design for a basic LED circuit. The PCB contains three footprints: Connector_PinHeader_2.54mm for the battery, LED_THT:LED_D5.0 mm for the LED, and Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal for the 470 ohms resistor.
+This project contains a KiCad 7.0.0 PCB design for a basic LED circuit. The PCB contains three footprints: `Connector_PinHeader_2.54mm` for the battery, `LED_THT:LED_D5.0 mm` for the LED, and `Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal` for the 470 ohms resistor.
 
 ## Table of Contents
 - Circuit Diagram
