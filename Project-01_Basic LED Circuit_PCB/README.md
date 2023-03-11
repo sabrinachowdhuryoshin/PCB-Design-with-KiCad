@@ -11,7 +11,7 @@ This project contains a KiCad 7.0.0 PCB design for a basic LED circuit. The PCB 
 
 ## Circuit Diagram
 
-![LED Circuit Diagram](C:\Users\nx018023\Desktop\GitHub\PCB-Designing-with-KiCad\Basic LED Circuit_PCB\Image_Files\Basic LED Circuit Diagram.jpg) 
+![LED Circuit Diagram](Basic LED Circuit Diagram.jpg) 
 
 The circuit diagram above shows the basic LED circuit. The LED is connected in series with a resistor and a power source. The resistor limits the current flow through the LED and prevents it from burning out. The circuit is designed for a 9V power supply and uses a 470 Ohm resistor.
 
@@ -27,7 +27,7 @@ The components used in the circuit are:
 
 The KiCad PCB design for the basic LED circuit is shown below:
 
-![LED Circuit PCB Design](C:\Users\nx018023\Desktop\GitHub\PCB-Designing-with-KiCad\Basic LED Circuit_PCB\Image_Files\Basic LED Circuit_PCB.jpg)  
+![LED Circuit PCB Design](Basic LED Circuit_PCB.jpg)  
 
 The PCB contains three footprints: Connector_PinHeader_2.54mm for the battery, LED_THT:LED_D5.0 mm for the LED, and Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal for the 470 ohms resistor. The design follows the circuit diagram shown earlier, with the battery connected to the vertical pin header, the resistor connected to the horizontal resistor footprint, and the LED connected to the LED footprint.
 
